@@ -1,0 +1,1292 @@
+{
+    "serverConfig": {
+        "ticketCategory": "1487497442063679589",
+        "staffChannel": "1482834401300578466",
+        "welcomeChannel": "1439975629293359197",
+        "mcStatusChannel": "1447917944913920091",
+        "mcStatusMessageId": "1520498242389938410",
+        "logsChannel": "1439983138540359752",
+        "autoRole": "1439983885524926534",
+        "staffRole": "1443304049486200852",
+        "verifiedRole": "1491087414750351521",
+        "softBanRole": "1509924471698620556",
+        "unbanCategory": "1509916384220676166",
+        "modLogsChannel": "1463959386824376320",
+        "transcriptsChannel": "1509933826669940888",
+        "ticketQuestions": []
+    },
+    "stats": {
+        "maxMcPlayersRecord": 23
+    },
+    "formulare": {
+        "form1": {
+            "titlu": "Aplicație Media",
+            "questions": [
+                "Nume și vârstă?",
+                "Ce experiență ai în domeniu?",
+                "Cât de des o sa postezi pe server ul nostru?",
+                "Ai citit regulamentul?",
+                "De ce doresti sa aplici pe acest server? "
+            ]
+        },
+        "form2": {
+            "titlu": "Aplicație Staff",
+            "questions": [
+                "Care este numele tău real (prenumele este suficient) și ce vârstă ai?",
+                "Menționează Nickname-ul tău din joc exact cum apare pe server.",
+                "Dincolo de ecran, cine ești? Descrie-te detaliat, punând accent pe trăsăturile tale de caracter, valorile după care te ghidezi și modul în care lucrezi în echipă.",
+                "Cum gestionezi situațiile tensionate, criticile aduse de alți jucători sau perioadele de stres ridicat?",
+                "Detaliază experiența ta anterioară în domeniul moderării. Dacă nu ai experiență anterioară, cum plănuiești să recuperezi rapid acest decalaj?",
+                "Ce te-a determinat să alegi să aplici pe acest server în mod specific și ce îți atrage atenția la comunitatea noastră?",
+                "Ce abilități sau perspective noi poți aduce în echipa noastră administrativă pentru a îmbunătăți experiența jucătorilor? Oferă exemple concrete (ex: ești bun la medierea conflictelor, ai răbdare să explici sisteme complicate jucătorilor noi, știi să organizezi evenimente, etc.).",
+                "Ai citit, înțeles și asimilat regulamentul serverului?",
+                "Scenariu: Cum procedezi pas cu pas dacă observi doi jucători vechi și populari care se jignesc pe chat-ul global, iar în momentul în care intervii, unul dintre ei te acuză de favoritism sau abuz de putere?"
+            ]
+        }
+    },
+    "roluri": [
+        {
+            "nume": "Boy",
+            "emoji": "👦",
+            "id": "1447349933647855846"
+        },
+        {
+            "nume": "Girl",
+            "emoji": "👧",
+            "id": "1447349975284715694"
+        },
+        {
+            "nume": "",
+            "emoji": "",
+            "id": ""
+        }
+    ],
+    "linkedAccounts": {},
+    "warns": {
+        "1466438220668604724": [
+            {
+                "staffId": "517002935335649290",
+                "reason": "Limbaj+ Spam",
+                "date": "16.05.2026, 19:52:27"
+            }
+        ],
+        "1304497392661303410": [
+            {
+                "staffId": "517002935335649290",
+                "reason": "Promo",
+                "date": "21.05.2026, 20:59:52"
+            },
+            {
+                "staffId": "517002935335649290",
+                "reason": "Spam",
+                "date": "27.06.2026, 21:39:39"
+            },
+            {
+                "staffId": "517002935335649290",
+                "reason": "Spam x2",
+                "date": "27.06.2026, 21:39:58"
+            },
+            {
+                "staffId": "517002935335649290",
+                "reason": "Limbaj Vulgar codificat",
+                "date": "27.06.2026, 21:41:54"
+            }
+        ],
+        "1361734695422787755": [
+            {
+                "staffId": "517002935335649290",
+                "reason": "Promovare server",
+                "date": "21.05.2026, 21:32:56"
+            }
+        ]
+    },
+    "savedRoles": {
+        "602247745360625664": [
+            "1439983885524926534"
+        ],
+        "1473383521543520348": [
+            "1439983885524926534",
+            "1447349975284715694",
+            "1447349933647855846"
+        ],
+        "1362681730556887230": [
+            "1439983885524926534",
+            "1447349933647855846"
+        ],
+        "1071779974492725388": [
+            "1439983885524926534"
+        ],
+        "1301140529836331081": [
+            "1439983885524926534"
+        ],
+        "1494633722564186194": [
+            "1439983885524926534"
+        ],
+        "1353845468265709699": [
+            "1520043793095721001",
+            "1439983885524926534"
+        ],
+        "1304497392661303410": [
+            "1439983885524926534"
+        ],
+        "1519809159694913638": [
+            "1520043793095721001",
+            "1439983885524926534"
+        ]
+    },
+    "penalizari": [
+        {
+            "type": "SOFT-BAN",
+            "target": "iubescmds_",
+            "staff": "i0ana02",
+            "reason": "trol",
+            "date": "28.06.2026, 01:11:45"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "luis_pintea2013",
+            "staff": "mariusinfo",
+            "reason": "4/4 Warns",
+            "date": "27.06.2026, 21:42:14"
+        },
+        {
+            "type": "WARN",
+            "target": "luis_pintea2013",
+            "staff": "mariusinfo",
+            "reason": "Limbaj Vulgar codificat",
+            "date": "27.06.2026, 21:41:54"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "armin_1kr",
+            "staff": "mariusinfo",
+            "reason": "Troll",
+            "date": "27.06.2026, 21:40:32"
+        },
+        {
+            "type": "WARN",
+            "target": "luis_pintea2013",
+            "staff": "mariusinfo",
+            "reason": "Spam x2",
+            "date": "27.06.2026, 21:39:58"
+        },
+        {
+            "type": "WARN",
+            "target": "luis_pintea2013",
+            "staff": "mariusinfo",
+            "reason": "Spam",
+            "date": "27.06.2026, 21:39:39"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "mweeooooowww_13200",
+            "staff": "shelbyrazy1",
+            "reason": "trolling",
+            "date": "25.06.2026, 22:19:47"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "151728mw",
+            "staff": "shelbyrazy1",
+            "reason": "trolling",
+            "date": "25.06.2026, 22:17:37"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "parasociallll",
+            "staff": "shelbyrazy1",
+            "reason": "trolling",
+            "date": "25.06.2026, 22:17:22"
+        },
+        {
+            "type": "TIMEOUT",
+            "target": "crasanoiudenys",
+            "staff": "mariusinfo",
+            "reason": "Limbaj siComportament neadecvat",
+            "date": "19.06.2026, 21:32:20"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "_emy_dm2_1.",
+            "staff": "mariusinfo",
+            "reason": "PROMOVARE SERVER MC",
+            "date": "10.06.2026, 14:46:56"
+        },
+        {
+            "type": "TIMEOUT",
+            "target": "luis_pintea2013",
+            "staff": "mariusinfo",
+            "reason": "Ban 2 saptamani",
+            "date": "07.06.2026, 11:51:07"
+        },
+        {
+            "type": "TIMEOUT",
+            "target": "veyr1th9",
+            "staff": "mariusinfo",
+            "reason": "Ban Doua saptamani",
+            "date": "06.06.2026, 23:33:36"
+        },
+        {
+            "type": "TIMEOUT",
+            "target": "frekzuta",
+            "staff": "y85o",
+            "reason": "e",
+            "date": "06.06.2026, 11:06:53"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "caras._.",
+            "staff": "mariusinfo",
+            "reason": "Promovare Servere in PV",
+            "date": "01.06.2026, 14:49:58"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "cauciuc_",
+            "staff": "mariusinfo",
+            "reason": "Promo Server MC si server de discord in status",
+            "date": "30.05.2026, 19:42:02"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "luhttwizz",
+            "staff": "y85o",
+            "reason": "sugi",
+            "date": "29.05.2026, 16:45:10"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "antonioznx",
+            "staff": "mariusinfo",
+            "reason": "Promovare",
+            "date": "29.05.2026, 16:21:19"
+        },
+        {
+            "type": "SOFT-BAN",
+            "target": "antonioznx",
+            "staff": "mariusinfo",
+            "reason": "Negru",
+            "date": "29.05.2026, 16:18:03"
+        }
+    ],
+    "softBannedUsers": {
+        "1473383521543520348": true,
+        "1362681730556887230": true,
+        "1071779974492725388": true,
+        "1301140529836331081": true,
+        "1494633722564186194": true,
+        "1353845468265709699": true,
+        "1304497392661303410": true,
+        "1519809159694913638": true
+    },
+    "players": [
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906C0S939NBCX00ARU2MB",
+            "id": 152,
+            "is_premium": 0,
+            "username": "_ixan"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906ED181242504402282",
+            "id": 184,
+            "is_premium": 1,
+            "username": "71snack"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3KB6100G41302695",
+            "id": 46,
+            "is_premium": 0,
+            "username": "adelin"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B0671Defaultstring",
+            "id": 128,
+            "is_premium": 0,
+            "username": "Airportbomber1"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306D4PGYUQC4MYCR889",
+            "id": 38,
+            "is_premium": 0,
+            "username": "aitsnoob"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3KB6102G51406736",
+            "id": 37,
+            "is_premium": 0,
+            "username": "alex_67"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00870F10210585717800178",
+            "id": 100,
+            "is_premium": 0,
+            "username": "Alex12345"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EANBQ3M11004827804CF3400",
+            "id": 148,
+            "is_premium": 0,
+            "username": "Alex2222"
+        },
+        {
+            "discord_user": "itxmyalexio",
+            "hwid": "178BFBFF00860F81NBQAY110031356D1093400",
+            "id": 174,
+            "is_premium": 0,
+            "username": "Alexio_79"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306D4BSN12345678901234567",
+            "id": 16,
+            "is_premium": 1,
+            "username": "AlexutzuGym"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF00090672BR80GC002300516",
+            "id": 70,
+            "is_premium": 1,
+            "username": "Alexutzuul"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F2231128864701706",
+            "id": 186,
+            "is_premium": 0,
+            "username": "Americanu"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F5T832PFCJ0018VSMB",
+            "id": 131,
+            "is_premium": 0,
+            "username": "anabananica67"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A3PTHNU038JL41SG",
+            "id": 164,
+            "is_premium": 0,
+            "username": "And3ei"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A60F12Defaultstring",
+            "id": 4,
+            "is_premium": 1,
+            "username": "Andrei_Spery"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A40F41S519NRCX002U3XMB",
+            "id": 143,
+            "is_premium": 0,
+            "username": "andreibodescu"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306A9BTEN30100QZD",
+            "id": 56,
+            "is_premium": 0,
+            "username": "anto.xzb"
+        },
+        {
+            "discord_user": "toxicantotm",
+            "hwid": "178BFBFF008A0F00NBKDE110033102A2033400",
+            "id": 58,
+            "is_premium": 0,
+            "username": "Antoniobuilder"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00870F10Defaultstring",
+            "id": 102,
+            "is_premium": 1,
+            "username": "AntoniozNx"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A40F41S833NRCX008PVEMB",
+            "id": 59,
+            "is_premium": 0,
+            "username": "AxolotMC"
+        },
+        {
+            "discord_user": "frekzuta",
+            "hwid": "178BFBFF00A50F00MP2MLTDW",
+            "id": 11,
+            "is_premium": 0,
+            "username": "Banhidos"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906C0PF3QG7S4",
+            "id": 106,
+            "is_premium": 0,
+            "username": "bejii"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906A3BSS-0123456789",
+            "id": 182,
+            "is_premium": 0,
+            "username": "bellatrix134340"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00870F10Defaultstring",
+            "id": 183,
+            "is_premium": 1,
+            "username": "BiscotteNoel"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0653200974807103442",
+            "id": 35,
+            "is_premium": 0,
+            "username": "BM"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000206A7Type2-BoardSerialNumber",
+            "id": 29,
+            "is_premium": 0,
+            "username": "BMW4EVER"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906E9Defaultstring",
+            "id": 189,
+            "is_premium": 1,
+            "username": "Brotacica"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906A4PF4B2FNN",
+            "id": 109,
+            "is_premium": 0,
+            "username": "Brutal_Striker"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00PLVUD028JFS1DX",
+            "id": 41,
+            "is_premium": 1,
+            "username": "CatalinCBR"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EAM80-D7025702869",
+            "id": 95,
+            "is_premium": 1,
+            "username": "Coldreyx"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306A9TobefilledbyO.E.M.",
+            "id": 118,
+            "is_premium": 0,
+            "username": "ColdRoad27"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF008A0F00MP2F74D7",
+            "id": 160,
+            "is_premium": 0,
+            "username": "Cristina_Eve"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A20F12BR80HA013300916",
+            "id": 142,
+            "is_premium": 1,
+            "username": "Cyrvok"
+        },
+        {
+            "discord_user": "k1nddavid11",
+            "hwid": "BFEBFBFF000906EABSS-0123456789",
+            "id": 12,
+            "is_premium": 1,
+            "username": "D4vidROx"
+        },
+        {
+            "discord_user": "dami_chi01",
+            "hwid": "BFEBFBFF000206A7TobefilledbyO.E.M.",
+            "id": 57,
+            "is_premium": 0,
+            "username": "dami_urasrul"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506CADefaultstring",
+            "id": 171,
+            "is_premium": 0,
+            "username": "Daniel"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506CADefaultstring",
+            "id": 172,
+            "is_premium": 0,
+            "username": "Daniel1"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00PF5GQGA5",
+            "id": 73,
+            "is_premium": 0,
+            "username": "darius1__"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3160984075601254",
+            "id": 55,
+            "is_premium": 0,
+            "username": "Darwin_GG14"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F2",
+            "id": 94,
+            "is_premium": 0,
+            "username": "Daved12382"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B0671250454591204373",
+            "id": 170,
+            "is_premium": 0,
+            "username": "davidelul88"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2NBD4C11001515005FF451B",
+            "id": 147,
+            "is_premium": 0,
+            "username": "DavidM"
+        },
+        {
+            "discord_user": "davidstefan0938",
+            "hwid": "BFEBFBFF000806ECPF28M98W",
+            "id": 21,
+            "is_premium": 0,
+            "username": "DavidStefan"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F2231231154304301",
+            "id": 151,
+            "is_premium": 0,
+            "username": "DavidStefan.sc"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0652PF3QHGC1",
+            "id": 19,
+            "is_premium": 0,
+            "username": "DaXu15"
+        },
+        {
+            "discord_user": "crasanoiudenys",
+            "hwid": "178BFBFF00A50F00EAUJX017010202511220134",
+            "id": 43,
+            "is_premium": 0,
+            "username": "Denys"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A20F12Defaultstring",
+            "id": 188,
+            "is_premium": 1,
+            "username": "Dinobrotac"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00Defaultstring",
+            "id": 156,
+            "is_premium": 0,
+            "username": "dr_eric12"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0655201177414000274",
+            "id": 154,
+            "is_premium": 0,
+            "username": "DummiFTW"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506E3TobefilledbyO.E.M.",
+            "id": 44,
+            "is_premium": 0,
+            "username": "EgronXx"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A40F41N207NRCX00FDE8MB",
+            "id": 185,
+            "is_premium": 0,
+            "username": "Fabian10069"
+        },
+        {
+            "discord_user": null,
+            "hwid": "WEB_REGISTRATION",
+            "id": 187,
+            "is_premium": 0,
+            "username": "Faby_69"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EADefaultstring",
+            "id": 23,
+            "is_premium": 1,
+            "username": "FaneF4ne"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00860F81NBJ551100152000E7D9D00",
+            "id": 60,
+            "is_premium": 0,
+            "username": "Fr3sh"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3/HZ9GYY1/CN129633CR0022/",
+            "id": 175,
+            "is_premium": 0,
+            "username": "Frate45678"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2DQ956M10123",
+            "id": 111,
+            "is_premium": 0,
+            "username": "Frog.R"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3BSS-0123456789",
+            "id": 92,
+            "is_premium": 0,
+            "username": "Fursec_26"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A70FC0TC51NRCX004AT1MB",
+            "id": 47,
+            "is_premium": 0,
+            "username": "Gabi1543"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F207D9810_MB1E101209",
+            "id": 27,
+            "is_premium": 1,
+            "username": "HaiLaPeeepeni"
+        },
+        {
+            "discord_user": "i0ana02",
+            "hwid": "BFEBFBFF000906A3BSS-0123456789",
+            "id": 2,
+            "is_premium": 0,
+            "username": "I0ana02"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906C0T417NBCV00MU6KMB",
+            "id": 22,
+            "is_premium": 0,
+            "username": "iAndrei"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906E9H716578685",
+            "id": 74,
+            "is_premium": 0,
+            "username": "ibrl_yt"
+        },
+        {
+            "discord_user": "irins5255",
+            "hwid": "178BFBFF008A0F00PRQBR038JIN1DZ",
+            "id": 8,
+            "is_premium": 0,
+            "username": "irina"
+        },
+        {
+            "discord_user": "irina028488",
+            "hwid": "BFEBFBFF000406E3P901293P",
+            "id": 25,
+            "is_premium": 0,
+            "username": "Irina01"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00860F81NBQAY110031356D1093400",
+            "id": 20,
+            "is_premium": 0,
+            "username": "itxmeAlexio"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00630F01DBSV811001706030BF30A1",
+            "id": 52,
+            "is_premium": 0,
+            "username": "iulianbuga1988"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3TobefilledbyO.E.M.",
+            "id": 97,
+            "is_premium": 0,
+            "username": "jefe"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806C1N729NXCV009M9JMB",
+            "id": 166,
+            "is_premium": 0,
+            "username": "jutroorcv"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806ECPHYZFG31VCK94D",
+            "id": 18,
+            "is_premium": 0,
+            "username": "kerosen69"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506E3/8488DD2/CN701635C1008T/",
+            "id": 39,
+            "is_premium": 0,
+            "username": "LILIxpdy"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806E9PGCHE018J5234F",
+            "id": 101,
+            "is_premium": 0,
+            "username": "Luca123"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F5T832PFCJ0018X7MB",
+            "id": 119,
+            "is_premium": 0,
+            "username": "lucas67"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EAK4NRCX00W331175",
+            "id": 134,
+            "is_premium": 0,
+            "username": "lucas68"
+        },
+        {
+            "discord_user": "y85o",
+            "hwid": "BFEBFBFF000506E32301740948",
+            "id": 67,
+            "is_premium": 1,
+            "username": "Luh__Twizz"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00820F01PF32HHYN",
+            "id": 71,
+            "is_premium": 1,
+            "username": "madaaglazer"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00800F11Defaultstring",
+            "id": 53,
+            "is_premium": 0,
+            "username": "Mar1oo"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806E9NBGEN11001641070297600",
+            "id": 65,
+            "is_premium": 0,
+            "username": "Marcu324"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF008A0F00MP2F74D7",
+            "id": 3,
+            "is_premium": 1,
+            "username": "MariaCristinaRO"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0653220196995002573",
+            "id": 1,
+            "is_premium": 1,
+            "username": "MariusInfo"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0653220196995002573",
+            "id": 169,
+            "is_premium": 0,
+            "username": "MariusInfoBeta"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806EANBGUW11009843003756600",
+            "id": 28,
+            "is_premium": 1,
+            "username": "Mashed_Potato_20"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF00090672MP2QVGYJ",
+            "id": 149,
+            "is_premium": 1,
+            "username": "maslaneoczka"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EADefaultstring",
+            "id": 177,
+            "is_premium": 0,
+            "username": "Mateo_Alex"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF00040651NBMLC110054361F5073400",
+            "id": 54,
+            "is_premium": 0,
+            "username": "Matteo"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806E9NBGEN11001641070297600",
+            "id": 66,
+            "is_premium": 0,
+            "username": "MHF_Steve"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506E3TobefilledbyO.E.M.",
+            "id": 79,
+            "is_premium": 0,
+            "username": "Michael_Jackson"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3141033828012438",
+            "id": 40,
+            "is_premium": 0,
+            "username": "mihaiion2009"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B0671Defaultstring",
+            "id": 86,
+            "is_premium": 1,
+            "username": "Narmer444"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2YX06HEEA",
+            "id": 26,
+            "is_premium": 0,
+            "username": "NaxonRO"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00PUYCC028JKW0TJ",
+            "id": 13,
+            "is_premium": 1,
+            "username": "NdrP2010"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06E0DNN21S36114C09W1289",
+            "id": 30,
+            "is_premium": 0,
+            "username": "nicoleta_23"
+        },
+        {
+            "discord_user": "nicu2813",
+            "hwid": "BFEBFBFF000706A8Defaultstring",
+            "id": 49,
+            "is_premium": 0,
+            "username": "nicu121"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000A0671210788393000646",
+            "id": 115,
+            "is_premium": 1,
+            "username": "Ninju27"
+        },
+        {
+            "discord_user": "ant1r_andrei28",
+            "hwid": "BFEBFBFF000706E5PKWLND21TF0N6E",
+            "id": 24,
+            "is_premium": 0,
+            "username": "NotThatAndrei"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906A4NBK6S1100233486C1D3400",
+            "id": 105,
+            "is_premium": 1,
+            "username": "P1x3lDown"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00MP2N9Q5P",
+            "id": 88,
+            "is_premium": 0,
+            "username": "p4tr1ck_xyz"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00810F10PHLUT00WBBR101",
+            "id": 87,
+            "is_premium": 0,
+            "username": "Panchin_"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806ECPHWHN00WBD6FLQ",
+            "id": 155,
+            "is_premium": 0,
+            "username": "pitar v2"
+        },
+        {
+            "discord_user": "buciumi",
+            "hwid": "BFEBFBFF000806ECPHWHN00WBD6FLQ",
+            "id": 17,
+            "is_premium": 0,
+            "username": "Pitar_"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2SC51NBCV00DX61MB",
+            "id": 110,
+            "is_premium": 1,
+            "username": "Prajiturica_"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506E3160778396103557",
+            "id": 96,
+            "is_premium": 0,
+            "username": "qdenisa"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A20F12251165564001149",
+            "id": 135,
+            "is_premium": 1,
+            "username": "QUEENCTRL"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00PF5HSSR4",
+            "id": 82,
+            "is_premium": 0,
+            "username": "raresswwww"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A20F12BR80HA013300916",
+            "id": 165,
+            "is_premium": 0,
+            "username": "Ratonelu"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2SC51NBCV00DX61MB",
+            "id": 163,
+            "is_premium": 0,
+            "username": "Ratonelu_"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B067107E2910_O41E433382",
+            "id": 80,
+            "is_premium": 0,
+            "username": "Raulwzyx"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00PF4LRE2B",
+            "id": 32,
+            "is_premium": 0,
+            "username": "ReaperX297Tudor"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B0671231027713700431",
+            "id": 114,
+            "is_premium": 1,
+            "username": "riskOFF"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00810F10Defaultstring",
+            "id": 103,
+            "is_premium": 0,
+            "username": "Robinet134"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F5T832PFCJ0018S9MB",
+            "id": 132,
+            "is_premium": 0,
+            "username": "RODUT"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000206A7INVALID",
+            "id": 10,
+            "is_premium": 1,
+            "username": "Rufus_the_DUCK"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000206D7NONE",
+            "id": 181,
+            "is_premium": 0,
+            "username": "S3b1H"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000206D7NONE",
+            "id": 68,
+            "is_premium": 1,
+            "username": "S3b1V"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306F2150853080500979",
+            "id": 69,
+            "is_premium": 0,
+            "username": "scoica101"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306C3141135350606885",
+            "id": 84,
+            "is_premium": 0,
+            "username": "seba_va_sparge"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2SC51NBCV00DX61MB",
+            "id": 72,
+            "is_premium": 1,
+            "username": "ShadowBigBro"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000406E3MP1H4V7A",
+            "id": 98,
+            "is_premium": 0,
+            "username": "silviu"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A40F41AG622MC01Q6",
+            "id": 99,
+            "is_premium": 1,
+            "username": "SirMisterr"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EAJ9NRCX02Y956387",
+            "id": 15,
+            "is_premium": 0,
+            "username": "SISUBOSUL"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000506E3TobefilledbyO.E.M.",
+            "id": 51,
+            "is_premium": 0,
+            "username": "SquizZz7"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A50F00NBDJV11001543008839D00",
+            "id": 116,
+            "is_premium": 0,
+            "username": "Stefan_IT"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906A3BSS-0123456789",
+            "id": 14,
+            "is_premium": 1,
+            "username": "swifttrack"
+        },
+        {
+            "discord_user": "theconquerorgpwm",
+            "hwid": "178BFBFF00810F81PF2EKNWL",
+            "id": 81,
+            "is_premium": 1,
+            "username": "TheConquerorGPWM"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306A9CZC31058Y5",
+            "id": 83,
+            "is_premium": 0,
+            "username": "TheXTeo"
+        },
+        {
+            "discord_user": "toni2q",
+            "hwid": "BFEBFBFF000306A9BTBL13600393",
+            "id": 153,
+            "is_premium": 0,
+            "username": "toni"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000306A9BTBL13600393",
+            "id": 161,
+            "is_premium": 0,
+            "username": "Toni123"
+        },
+        {
+            "discord_user": "tr1ck20111",
+            "hwid": "178BFBFF00A70FC0T834NRCX00831KMB",
+            "id": 178,
+            "is_premium": 0,
+            "username": "Tr1ck"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06A2SC51NBCV00DX61MB",
+            "id": 173,
+            "is_premium": 0,
+            "username": "trump"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000B06F5T832PFCJ0018VEMB",
+            "id": 130,
+            "is_premium": 0,
+            "username": "TUDORICA"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00810F81NA",
+            "id": 179,
+            "is_premium": 0,
+            "username": "tudorrgrt"
+        },
+        {
+            "discord_user": "veyr1th9",
+            "hwid": "178BFBFF00A20F12BR80HA013300916",
+            "id": 176,
+            "is_premium": 1,
+            "username": "Twizzu"
+        },
+        {
+            "discord_user": "ursu_maghiar",
+            "hwid": "178BFBFF00A70FC0T835NRCX00AVUHMB",
+            "id": 7,
+            "is_premium": 1,
+            "username": "Ursu_Maghiar"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906E9BSN12345678901234567",
+            "id": 89,
+            "is_premium": 0,
+            "username": "Vianu1"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF008A0F00MP2NNAGV",
+            "id": 93,
+            "is_premium": 0,
+            "username": "vini1201"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806D1R521NRCX008RVMMB",
+            "id": 85,
+            "is_premium": 0,
+            "username": "Vivi"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906EAL938NRCV002UX9MB",
+            "id": 31,
+            "is_premium": 0,
+            "username": "VOLT_XD"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806ECPHVQV098JCZ748",
+            "id": 36,
+            "is_premium": 0,
+            "username": "Vynox"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000906A4L1HF27B027S",
+            "id": 9,
+            "is_premium": 1,
+            "username": "WhiteWhither"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000806C1PM75E0224P007674",
+            "id": 90,
+            "is_premium": 0,
+            "username": "X_BEZEA_X"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00A20F12230216264100326",
+            "id": 180,
+            "is_premium": 0,
+            "username": "Yeat"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00870F10HQ2007070206895",
+            "id": 6,
+            "is_premium": 1,
+            "username": "ZEROCTRL20"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF00870F10HQ2007070206895",
+            "id": 159,
+            "is_premium": 0,
+            "username": "ZEROCTRL30"
+        },
+        {
+            "discord_user": null,
+            "hwid": "178BFBFF008A0F00S103NBCV00BA2LMB",
+            "id": 45,
+            "is_premium": 0,
+            "username": "ZeTi-I"
+        },
+        {
+            "discord_user": null,
+            "hwid": "BFEBFBFF000206A71ZLYS3AA2ER",
+            "id": 144,
+            "is_premium": 0,
+            "username": "zuz00"
+        }
+    ]
+}
